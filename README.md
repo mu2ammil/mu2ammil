@@ -38,15 +38,6 @@
 
 ---
 
-### 🏆 My Contributions to the Laravel Ecosystem
-
-- 🧩 Created multiple Filament plugins with 1k+ stars
-- 🗃️ Built open-source Laravel packages downloaded over 100k times
-- 🧪 Advocate for testing: PHPUnit, Pest, Test-Driven Development
-- 📚 Regularly write articles and tweet tips on Laravel architecture
-
----
-
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/muzammil-zaman1)
