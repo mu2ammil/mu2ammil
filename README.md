@@ -38,12 +38,6 @@
 
 ---
 
-### 🛠️ Featured Projects
-
-- 🔧 [**SaaSKit**](https://github.com/mu2ammil/SaaSKit) – A modular Laravel starter kit with Teams, Billing (Cashier), Notifications, and API tokens.
-- 💬 [**Laravel Chatify Pro**](https://github.com/mu2ammil/Chatify-Pro) – Scalable real-time chat app using Laravel WebSockets + Livewire.
-- 📦 [**FilamentX**](https://github.com/mu2ammil/filamentx) – Advanced Filament plugin for dynamic form rendering and permissions.
-
 ---
 
 ### 🏆 My Contributions to the Laravel Ecosystem
