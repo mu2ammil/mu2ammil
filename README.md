@@ -38,8 +38,6 @@
 
 ---
 
----
-
 ### 🏆 My Contributions to the Laravel Ecosystem
 
 - 🧩 Created multiple Filament plugins with 1k+ stars
