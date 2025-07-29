@@ -33,10 +33,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mu2ammil&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br />
-  <iframe src="https://github-readme-streak-stats.herokuapp.com/?user=mu2ammil&theme=shadow-red" alt="GitHub Streak" />
 </p>
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mu2ammil)](https://git.io/streak-stats)
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/muzammil-zaman1)
