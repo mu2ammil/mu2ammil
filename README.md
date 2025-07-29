@@ -35,7 +35,8 @@
   <br />
 </p>
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mu2ammil)](https://git.io/streak-stats)
+[GitHub Streak](https://streak-stats.demolab.com/?user=mu2ammil)](https://git.io/streak-stats)
+
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/muzammil-zaman1)
