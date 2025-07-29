@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Muzammil</h1>
-<h3 align="center">Laravel Developer | FullStack Dev | LAMP </h3>
+<h3 align="center">FullStack Developer | LAMP Stack </h3>
 
 ---
 
