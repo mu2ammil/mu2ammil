@@ -35,7 +35,6 @@
   <br />
 </p>
 ---
-[GitHub Streak](https://streak-stats.demolab.com/?user=mu2ammil)](https://git.io/streak-stats)
 
 ### 📫 Let's Connect
 
