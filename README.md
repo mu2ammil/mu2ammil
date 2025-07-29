@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mu2ammil&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mu2ammil&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mu2ammil&theme=radical" alt="GitHub Streak" /> -->
 </p>
 
 ---
