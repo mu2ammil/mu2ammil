@@ -35,7 +35,7 @@
   <br />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mu2ammil&theme=radical" alt="GitHub Streak" /> -->
 </p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mu2ammil)](https://git.io/streak-stats)
 ---
 
 ### 📫 Let's Connect
